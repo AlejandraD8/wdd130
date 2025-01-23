@@ -21,10 +21,6 @@ h1 {
     box-shadow: 0 0 30px gray;
   }
 
-  p {
-    padding: 0px;
-  }
-
   main {
     max-width: 840px;
   }
@@ -56,5 +52,5 @@ h1 {
   }
   
   p {
-    padding: 0px;
+    padding: 0;
   }
